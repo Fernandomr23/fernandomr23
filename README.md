@@ -6,8 +6,24 @@ Graduate in Audiovisual Communications 📹
 
 I have recently started a new path and am currently immersed in computer programming at 👨‍💻 [42 Madrid](https://www.42madrid.com/).
 
+----------------------------------------------------------------------
+
+## 🔴 Youtube
+
+I create programming tutorials using HTML, CSS and Javascript.
+
+Visit my Youtube Channel 👉 [Soodacode](https://www.youtube.com/@Soodacode)
+
+----------------------------------------------------------------------
+
 ## 🧰 Tools
+<img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
+<img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+          
 <br />
 
 ## My Social 📱
