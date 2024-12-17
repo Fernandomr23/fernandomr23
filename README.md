@@ -8,14 +8,6 @@ I have recently started a new path and am currently immersed in computer program
 
 ----------------------------------------------------------------------
 
-## 🔴 Youtube
-
-I create programming tutorials using HTML, CSS and Javascript.
-
-Visit my Youtube Channel 👉 [Soodacode](https://www.youtube.com/@Soodacode)
-
-----------------------------------------------------------------------
-
 ## 🧰 Tools
 <img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
